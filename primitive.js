@@ -6,7 +6,7 @@ primitive data types
 3. boolean
 4. undefined
 5. null
-
+ 
 7. symbol
 
 non-primitive
